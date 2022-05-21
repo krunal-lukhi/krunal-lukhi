@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 * 🎓 I'm currently persuing B.Tech in ICT(with minor in CS) at DAIICT<br />
-* :computer: I'm currently working as Research Intern on Distributed Databases 
+* :computer: I'm currently working on Distributed Databases as Research Intern
 ------------------
 ### Find me on:
 
