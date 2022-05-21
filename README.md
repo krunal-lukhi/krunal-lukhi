@@ -41,5 +41,4 @@ Here are some ideas to get you started:
 <img src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494748.png?token=exp=1653125685~hmac=c16163477e923123e3d37f8875e86cf2" alt="Git" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-----
 
